@@ -33,5 +33,5 @@
 
  <br>
  
-<small align="center">Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </small>
+<h6 align="center">Trabalhando atualmente na [Yungas](https://yungas.com.br/) - Software para Gestão de Franquias </h6>
 
