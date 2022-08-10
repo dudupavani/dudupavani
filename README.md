@@ -24,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
   
+<br>
 
 <h5 align="center">Design and prototype tools:</h5>
 <p align="center">
