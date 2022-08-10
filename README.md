@@ -2,13 +2,11 @@
 <h3 align="center">UX / UI Designer · Frontend design developer</h3>
 <p align="center"><a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a></p>
 
-<h6 align="center">Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </h6>
-
-
+<hr>
 
 <ul align="center">  
   
-<h5 ailgn="center">CONTACTS</h5>
+<h6 ailgn="center">CONTACTS</h6>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eduardopavani.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopavani/)
@@ -36,5 +34,5 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 </p>
  
-
+<h6 align="center">Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </h6>
 
