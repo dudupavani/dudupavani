@@ -33,6 +33,6 @@
 
  <br>
  
- 
-<p align="center">Work at: Yungas - Franchise Management Software</p>
+ <h6 align="center">Work at:</h6>
+<p align="center">Yungas - Franchise Management Software</p>
 
