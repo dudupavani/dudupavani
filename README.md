@@ -1,6 +1,5 @@
 <img src="https://eduardopavani.com/github/headerreadme.png">
 <h3 align="center">UX / UI Designer · Frontend design developer</h3>
-<p align="center"><a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a></p>
 
 <ul align="center">  
 
