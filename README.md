@@ -34,5 +34,5 @@
  <br>
  
  
-<p align="center">Trabalhando atualmente na Yungas - Software para Gestão de Franquias </p>
+<p align="center">Work at: Yungas - Franchise Management Software</p>
 
