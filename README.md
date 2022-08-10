@@ -1,12 +1,14 @@
 <img src="https://eduardopavani.com/github/headerreadme.png">
-
-[color: #ff3333](<a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a>)
+<a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a>
 <ul>
   <li>UX / UI Designer</li>
   <li>Frontend design developer</li>
 </ul>
-<br><br>
+<br>
 <p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </p>
+<br>
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 <!--
 **dudupavani/dudupavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
