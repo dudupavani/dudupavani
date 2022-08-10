@@ -4,6 +4,7 @@
 <ul align="center">  
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-a78f60?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eduardopavani.com/)
+  <p></p>
 [![linkedin](https://img.shields.io/badge/linkedin-8b8f95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopavani/)
 [![instagram](https://img.shields.io/badge/instagram-8b8f95?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardopavani.design)
 [![dribbble](https://img.shields.io/badge/dribbble-8b8f95?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/dudupavani)
