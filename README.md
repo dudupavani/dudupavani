@@ -2,7 +2,7 @@
 <h3 align="center">UX / UI Designer · Frontend design developer</h3>
 <p align="center"><a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a></p>
 
-<hr>
+```bash
 
 <ul align="center">  
   
@@ -14,6 +14,8 @@
 [![dribbble](https://img.shields.io/badge/dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/dudupavani)
 
   </ul>
+  
+  ```
 
 <h5 align="left">Languages:</h5>
 
