@@ -33,7 +33,7 @@
 
  <br>
  
- Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+ Este site foi construído usando [Yungas Pages](https://pages.github.com/).
  
 <p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias </p>
 
