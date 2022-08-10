@@ -1,4 +1,4 @@
-<img src="https://eduardopavani.com/github/headerreadme.png">
+<img src="https://eduardopavani.com/github/headerreadm.png">
 <h3 align="center">UX / UI Designer · Frontend design developer</h3>
 <br>
 <ul align="center">  
