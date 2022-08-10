@@ -2,7 +2,7 @@
 <h3 align="center">UX / UI Designer · Frontend design developer</h3>
 <br>
 
-<pre>adfadf</pre><pre>adfadf</pre><pre>adfadf</pre>
+
 
 <ul align="center">  
 
