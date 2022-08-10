@@ -1,19 +1,11 @@
 <img src="https://eduardopavani.com/github/headerreadme.png">
 <a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a>
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+» UX / UI Designer<
+» Frontend design developer
 
-<ul>
-  <li>UX / UI Designer</li>
-  <li>Frontend design developer</li>
-</ul>
-<br>
 <p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </p>
-<br>
+
 
 # O título maior
 ## O segundo maior título
