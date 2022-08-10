@@ -1,7 +1,9 @@
 <h1>eduardopavani.design</h1>
 <p>www.eduardopavani.com</p>
-<small>UX / UI Designer</small>
-<small>Frontend design developer</small>
+<ul>
+<li>UX / UI Designer</li>
+<li>Frontend design developer</li>
+</ul>
 
 <!--
 **dudupavani/dudupavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
