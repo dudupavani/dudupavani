@@ -31,8 +31,8 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>
-<img src="https://eduardopavani.com/github/photoshop.png" alt="photoshop" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://eduardopavani.com/github/photoshop.png" alt="Photoshop" title="Photoshop"/>
+<img src="https://eduardopavani.com/github/illustrator.png" alt="Illustrator" title="Illustrator"/>
 </p>
 
  <br>
