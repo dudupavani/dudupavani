@@ -10,6 +10,7 @@
 
   </ul>
   
+<br>
 
 <h5 align="center">Languages:</h5>
 <p align="center">
@@ -22,7 +23,7 @@
   
 
 <h5 align="center">Design and prototype tools:</h5>
-<p>
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>
