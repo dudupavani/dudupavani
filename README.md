@@ -33,7 +33,7 @@
   
 <br>
   
-<h5 align="left">Tools:</h5>
+<h5 align="left">Design and prototype tools:</h5>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
