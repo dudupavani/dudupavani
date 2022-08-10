@@ -14,7 +14,7 @@
 <a href="https://www.behance.net/eduardopavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="eduardopavani" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">###### Languages:</h3>
+<h5 align="left">Languages:</h5>
 <p align="left">
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">  
@@ -33,7 +33,7 @@
   
 <br>
   
-<h3 align="left">###### Tools:</h3>
+<h5 align="left">Tools:</h5>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
