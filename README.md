@@ -33,7 +33,6 @@
 
  <br>
  
- # site foi construído usando [Yungas](https://yungas.com.br/).
  
-<p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias </p>
+<p align="center">Trabalhando atualmente na Yungas - Software para Gestão de Franquias </p>
 
