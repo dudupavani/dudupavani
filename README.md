@@ -1,8 +1,8 @@
 <h1>eduardopavani.design</h1>
 <p>www.eduardopavani.com</p>
-<ul>
-<li>UX / UI Designer</li>
-<li>Frontend design developer</li>
+<ul style="list-style:none;">
+<li>» UX / UI Designer</li>
+<li>» Frontend design developer</li>
 </ul>
 
 <!--
