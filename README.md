@@ -3,8 +3,6 @@
 <p align="center"><a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a></p>
 
 <ul align="center">  
-  
-<h6 ailgn="center">CONTACTS</h6>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eduardopavani.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopavani/)
