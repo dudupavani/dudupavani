@@ -1,6 +1,11 @@
 <img src="https://eduardopavani.com/github/headerreadme.png">
-[![Eduardo Pavani - Designer](https://eduardopavani.com/github/headerreadme.png)](https://www.eduardopavani.com)]
 <a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a>
+
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 
 <ul>
   <li>UX / UI Designer</li>
