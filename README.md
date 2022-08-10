@@ -2,8 +2,7 @@
 <h3 align="center">UX / UI Designer · Frontend design developer</h3>
 <p align="center"><a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a></p>
 
-```bash
-
+`
 <ul align="center">  
   
 <h6 ailgn="center">CONTACTS</h6>
@@ -15,7 +14,7 @@
 
   </ul>
   
-  ```
+  `
 
 <h5 align="left">Languages:</h5>
 
