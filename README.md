@@ -1,5 +1,6 @@
 <h1>eduardopavani.design</h1>
-<p color-#ffcc00>www.eduardopavani.com</p>
+<img src="https://eduardopavani.com/github/repository-open-graph-template.png">
+<a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a>
 <ul>
   <li>UX / UI Designer</li>
   <li>Frontend design developer</li>
