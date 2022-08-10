@@ -1,6 +1,6 @@
 <img src="https://eduardopavani.com/github/headerreadme.png">
 <br>
-<p align="center">UX / UI Designer · Frontend design developer</p>
+<p align="center">### UX / UI Designer · Frontend design developer</p>
 <br>
 <p align="center"><a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a></p>
 
