@@ -33,5 +33,7 @@
 
  <br>
  
-<p>Trabalhando atualmente na [GitHub Pages](https://pages.github.com/) Software para Gestão de Franquias </p>
+ Este site foi construído usando [GitHub Pages](https://pages.github.com/).
+ 
+<p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias </p>
 
