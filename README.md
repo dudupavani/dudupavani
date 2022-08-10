@@ -5,7 +5,10 @@
 
 <p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </p>
 
-![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 
 <h5 align="left">Contact</h5>
 
