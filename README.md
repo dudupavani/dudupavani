@@ -3,7 +3,7 @@
 
 <ul align="center">  
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-f7f8fa?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eduardopavani.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-a78f60?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eduardopavani.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopavani/)
 [![instagram](https://img.shields.io/badge/instagram-ff7900?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardopavani.design)
 [![dribbble](https://img.shields.io/badge/dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/dudupavani)
