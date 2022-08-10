@@ -5,7 +5,7 @@
 
 <p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </p>
 
-
+![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f
 
 <h5 align="left">Contact</h5>
 
