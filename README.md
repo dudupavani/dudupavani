@@ -1,5 +1,5 @@
 <h1>eduardopavani.design</h1>
-<p>www.eduardopavani.com</p>
+<p color-#ffcc00>www.eduardopavani.com</p>
 <ul>
   <li>UX / UI Designer</li>
   <li>Frontend design developer</li>
