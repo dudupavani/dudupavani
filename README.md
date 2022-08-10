@@ -1,5 +1,6 @@
 <img src="https://eduardopavani.com/github/headerreadme.png">
 <a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a>
+![style](<a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a> "Logo Title Text 1")
 <ul>
   <li>UX / UI Designer</li>
   <li>Frontend design developer</li>
