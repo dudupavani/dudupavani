@@ -4,7 +4,6 @@
 <ul align="center">  
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-a78f60?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eduardopavani.com/)
-  <p></p>
 [![linkedin](https://img.shields.io/badge/linkedin-8b8f95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopavani/)
 [![instagram](https://img.shields.io/badge/instagram-8b8f95?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eduardopavani.design)
 [![dribbble](https://img.shields.io/badge/dribbble-8b8f95?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/dudupavani)
@@ -16,6 +15,7 @@
 <h5 align="center">Languages:</h5>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <p></p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
