@@ -1,7 +1,5 @@
 <img src="https://eduardopavani.com/github/headerreadme.png">
-<br>
 <h3 align="center">UX / UI Designer · Frontend design developer</h3>
-<br>
 <p align="center"><a href="https://www.eduardopavani.com" taget="blank">www.eduardopavani.com</a></p>
 
 <p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </p>
