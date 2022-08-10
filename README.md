@@ -33,5 +33,5 @@
 
  <br>
  
-<h6 align="center">Trabalhando atualmente na [Yungas](https://yungas.com.br/)  Software para Gestão de Franquias </h6>
+<h6 align="center">Trabalhando atualmente na [GitHub Pages](https://pages.github.com/) Software para Gestão de Franquias </h6>
 
