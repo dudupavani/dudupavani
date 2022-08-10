@@ -1,9 +1,11 @@
 <h1>eduardopavani.design</h1>
 <p>www.eduardopavani.com</p>
-<ul style="list-style:none;">
-<li>» UX / UI Designer</li>
-<li>» Frontend design developer</li>
+<ul>
+  <li>UX / UI Designer</li>
+  <li>Frontend design developer</li>
 </ul>
+<br><br>
+<p>Trabalhando atualmente na Yungas - Software para Gestão de Franquias | www.yungas.com.br </p>
 
 <!--
 **dudupavani/dudupavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
