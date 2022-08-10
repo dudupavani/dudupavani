@@ -9,8 +9,13 @@
 
 <h5 align="left">Contact</h5>
 <p align="left">
+
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardopavani" height="30" width="40" />
+
+  <a href="https://www.instagram.com/eduardopavani.design/" targt="blank"
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduardopavani.design" height="30" width="40" />
+  </>
+  
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dudupavani" height="30" width="40" />
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="eduardopavani" height="30" width="40" />
 </p>
