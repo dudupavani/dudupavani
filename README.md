@@ -40,12 +40,8 @@
 <h5 align="center">Design and prototype tools:</h5>
 <p align="center">
 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="64" height="64"/>
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch App" title="Sketch App" width="64" height="64"/>
-<img src="https://eduardopavani.com/github/marve.jpg" alt="Marvel App" title="Marvel App" width="74" height="74"/>
-<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="Invision" title="Invision" width="56" height="56"/>
-<img src="https://eduardopavani.com/github/photosho.png" alt="Photoshop" title="Photoshop"/>
-<img src="https://eduardopavani.com/github/illustrato.png" alt="Illustrator" title="Illustrator"/>
+<img src="https://eduardopavani.com/github/tools.png" />
+
 </p>
 
  <br>
