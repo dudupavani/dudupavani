@@ -40,7 +40,7 @@
 <h5 align="center">Design and prototype tools:</h5>
 <p align="center">
 
-<img src="https://eduardopavani.com/github/tools.png" />
+<img src="https://eduardopavani.com/github/tools.jpg" />
 
 </p>
 
