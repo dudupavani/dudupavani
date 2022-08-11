@@ -17,8 +17,9 @@
 
 <h5 align="center">Languages:</h5>
 <p align="center">
-  <img src="https://eduardopavani.com/github/html.png" alt="Html" title="Html"/>
-    <img src="https://eduardopavani.com/github/css.png" alt="CSS" title="CSS"/>
+  
+<img src="https://eduardopavani.com/github/html.png" alt="Html" title="Html"/>
+<img src="https://eduardopavani.com/github/css.png" alt="CSS" title="CSS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
@@ -28,11 +29,10 @@
 
 <h5 align="center">Design and prototype tools:</h5>
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>
 
-    <img src="https://eduardopavani.com/github/figma.png" alt="Figma" title="Figma"/>
+<img src="https://eduardopavani.com/github/figma.png" alt="Figma" title="Figma"/>
+<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch App" title="Sketch App" width="64" height="64"/>
+<img src="https://eduardopavani.com/github/invision.png" alt="Invision" title="Invision"/>
 <img src="https://eduardopavani.com/github/photoshop.png" alt="Photoshop" title="Photoshop"/>
 <img src="https://eduardopavani.com/github/illustrator.png" alt="Illustrator" title="Illustrator"/>
 </p>
