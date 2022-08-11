@@ -42,6 +42,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="64" height="64"/>
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch App" title="Sketch App" width="64" height="64"/>
+<img src="https://eduardopavani.com/github/marvel.jpg" alt="Marvel App" title="Marvel App"/>
 <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="Invision" title="Invision" width="61" height="61"/>
 <img src="https://eduardopavani.com/github/photosho.png" alt="Photoshop" title="Photoshop"/>
 <img src="https://eduardopavani.com/github/illustrato.png" alt="Illustrator" title="Illustrator"/>
