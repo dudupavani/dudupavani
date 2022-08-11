@@ -18,11 +18,7 @@
 <h5 align="center">Languages:</h5>
 <p align="center">
   
-<img src="https://eduardopavani.com/github/html.png" alt="Html" title="Html"/>
-<img src="https://eduardopavani.com/github/css.png" alt="CSS" title="CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="65" height="65"/>
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" title="bootstrap" width="58" height="58"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwind" width="68" height="68"/>
+<img src="https://eduardopavani.com/github/languages.jpg"/>
 
 </p>
   
