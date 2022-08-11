@@ -20,9 +20,10 @@
   
 <img src="https://eduardopavani.com/github/html.png" alt="Html" title="Html"/>
 <img src="https://eduardopavani.com/github/css.png" alt="CSS" title="CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="65" height="65"/>
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" title="bootstrap" width="58" height="58"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="tailwind" width="68" height="68"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="65" height="65"/>
 </p>
   
 <br>
@@ -30,11 +31,11 @@
 <h5 align="center">Design and prototype tools:</h5>
 <p align="center">
 
-<img src="https://eduardopavani.com/github/figma.png" alt="Figma" title="Figma"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="64" height="64"/>
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch App" title="Sketch App" width="64" height="64"/>
-<img src="https://eduardopavani.com/github/invision.png" alt="Invision" title="Invision"/>
-<img src="https://eduardopavani.com/github/photoshop.png" alt="Photoshop" title="Photoshop"/>
-<img src="https://eduardopavani.com/github/illustrator.png" alt="Illustrator" title="Illustrator"/>
+<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="Invision" title="Invision" width="61" height="61"/>
+<img src="https://eduardopavani.com/github/photosho.png" alt="Photoshop" title="Photoshop"/>
+<img src="https://eduardopavani.com/github/illustrato.png" alt="Illustrator" title="Illustrator"/>
 </p>
 
  <br>
